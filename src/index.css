@@ -1,0 +1,57 @@
+@import '@zendeskgarden/css-tabs';
+@import '@zendeskgarden/react-forms/dist/styles.css';
+@import '@zendeskgarden/css-grid';
+@import '@zendeskgarden/react-dropdowns/dist/styles.css';
+@import '@zendeskgarden/css-buttons';
+@import '@zendeskgarden/react-notifications/dist/styles.css';
+
+.margin-top-small {
+    margin-top: 1em;
+}
+
+.margin-bottom-small {
+    margin-bottom: 1em;
+}
+
+.margin-bottom-normal {
+    margin-bottom: 1.5em;
+}
+
+.padding-bottom-normal {
+    padding-bottom: 1.5em;
+}
+
+.margin-top-normal {
+    margin-top: 1.5em;
+}
+
+.margin-top-large {
+    margin-top: 2em;
+}
+
+
+.checkbox-container {
+    max-height: 65rem;
+    overflow: auto;
+}
+
+.App {
+    margin-top: 1.5em;
+}
+
+
+ol.list {
+    list-style: decimal;
+    padding-left: 1.5rem;
+}
+
+h3 {
+    font-weight: 600;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 20px;
+}
